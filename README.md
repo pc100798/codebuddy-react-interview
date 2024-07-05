@@ -1,29 +1,21 @@
-# Welcome to Round 3 of your React Interview
+# Multi-Step Form(Codebuddy Assignment)
 
-> This round is to test your practical knowledge of using React in real world applications.
-> The repo serves as a boilerplate for the React application you are going to build.
-> The boilerplate is created using `vite`.
+*Form Step 1:*
+![1](public/Images/S1.PNG)
 
-> **_Please read the below instructions carefully_**
+*Form Step 2:*
+![1](public/Images/S2.PNG)
 
----
+*Form Step 3:*
+![1](public/Images/S3.PNG)
 
-### **Before starting keep in mind the below points**
+*Posts:*
+![1](public/Images/S4.PNG)
 
-- The repo is configured with **ESlint** to check the code quality of your javascript code.
-- Failing the rules set by the above linters will **prevent you from committing to this repo**
-- The Project will show some VS Code plugins as recommendations, that help you regarding these linter, ESLint, Prettier, etc. Install these plugins for better experience. You can open `.vscode/extensions.json` to see the list of recommended plugins.
-- This repo is pre-installed with Tailwind CSS. You can use it to style your components.
-- This repo is pre-installed with React Router v6.4. You can use it to create routes in your application.
-- You can install other npm packages if you want
-- Upon completing the problem, commit to your **FORKED** github repo and share the github repo url with us for review
-- Writing inline CSS is discouraged, utilize Tailwind or write your custom CSS in separate CSS files or CSS modules. You are free to use any other CSS or Component library like Bootstrap, Material UI, etc.
-- UI must be **responsive**
-- Can use any online resources to solve the problem
-- Must use [`fetch API`](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) to make API calls instead of `axios`. Use `JSON.stringify` to convert the body to string when doing any POST request. Don't pass any headers like `Content-Type` or `Accept` in the request.
-- You have a total of **2 hrs** to complete the task
 
----
+## Getting Started
+
+To get started with this project, follow the steps below:
 
 ## Pre-requisites
 

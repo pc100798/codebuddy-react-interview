@@ -64,7 +64,7 @@ const FormStep3 = ({ onBack, formData }) => {
           Back
         </button>
         <button className="submit-btn" type="submit">
-          Save and Next
+          Save
         </button>
       </div>
     </form>
